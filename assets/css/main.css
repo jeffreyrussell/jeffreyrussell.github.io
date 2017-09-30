@@ -31,7 +31,7 @@
 
 .sectionHeader {
   text-align: center;
-  background-color: #62788d;
+  background-color: #3d79b2;
   padding: 20px;
   margin: 0 !important;
 }
@@ -51,7 +51,7 @@
 }
 
 .slightRightMargin {
-  padding-right: 20px !important;
+  padding: 20px !important;
 }
 
 /* Reset */
@@ -3023,7 +3023,7 @@ button:disabled,
 }
 
 .wrapper.style2 {
-  background-color: #62788d;
+  background-color: #3d79b2;
 }
 
 .wrapper.style3 {
