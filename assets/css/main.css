@@ -7,6 +7,27 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.resumeButton {
+  position: fixed;
+  right: 64px;
+  bottom: 64px;
+
+  background-color: rgb(202, 25, 25);
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 16px;
+
+  cursor: pointer;
+  z-index: 9001;
+}
+
+@media only screen and (max-width: 767px),
+  only screen and (max-device-width: 767px) {
+  .resumeButton {
+    display: none;
+  }
+}
+
 .offBlack {
   color: #0d0d0d !important;
 }
