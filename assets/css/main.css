@@ -28,8 +28,12 @@
   }
 }
 
+.work {
+  background-color: #ededed !important;
+}
+
 .extraCurricular {
-  background-color: lightgrey !important;
+  background-color: #add8e6 !important;
 }
 
 .offBlack {
@@ -38,6 +42,15 @@
 
 .black {
   color: black !important;
+}
+
+.blackHeader {
+  color: black !important;
+  border-color: black !important;
+  padding-bottom: 0px !important;
+  margin: 0px !important;
+  margin-bottom: 10px !important;
+  font-size: 2em;
 }
 
 .grey {
@@ -56,7 +69,6 @@
 
 .sectionHeader {
   text-align: center;
-  background-color: #3d79b2;
   padding: 20px;
   margin: 0 !important;
 }
