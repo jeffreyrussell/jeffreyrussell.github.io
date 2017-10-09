@@ -28,6 +28,10 @@
   }
 }
 
+.extraCurricular {
+  background-color: lightgrey !important;
+}
+
 .offBlack {
   color: #0d0d0d !important;
 }
